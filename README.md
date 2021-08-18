@@ -1,4 +1,4 @@
-# Spring-Boot-JSP-CRUD
+# Spring-Boot-JPA-CRUD
 
 JAVA CRUD APP Via: 
   -SPRING boot
